@@ -1,7 +1,7 @@
 # chaibia-bot
 
 <p align="center">
-	<img src="resources/chaibia.jpeg">
+	<img src="https://github.com/ouadie-lahdioui/chaibia-bot/blob/master/resources/chaibia.jpg"> 
 </p>
 
 chaibia-bot is a chat bot built on the [Hubot][hubot] framework. It was
