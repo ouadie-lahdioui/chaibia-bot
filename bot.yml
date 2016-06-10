@@ -1,3 +1,17 @@
 name: Chaibia
-describption: Chaibia bot based on Hubot
-avatar: resources/chaibia.jpeg
+description: Chaibia bot based on Hubot
+avatar: resources/chaibia.jpg
+#background: resources/background.pn g
+#config:
+#  - name: OPTION
+#    friendly_name: Some Unnecessary Option
+#    info: This is an unnecessary option
+#    default: the default value
+#  - name: SECRET
+#    friendly_name: Shhhh
+#    info: This is an secret option
+#    type: secret
+#    default: not secret though
+#screenshots:
+#  - screenshot: resources/screenshot1.png
+#  - screenshot: resources/screenshot2.jpg
