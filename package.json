@@ -4,6 +4,9 @@
   "private": true,
   "author": "Ouadie Lahdioui <ouadiesoft@gmail.com>",
   "description": "A simple helpful robot for your Company",
+  "scripts": {
+    "start": "HUBOT_SLACK_TOKEN=xoxb-39955222789-J0iWR2B7HUPui9f5uVDEeuOS bin/hubot --adapter slack"
+  },
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
