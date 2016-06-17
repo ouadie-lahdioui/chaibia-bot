@@ -1,0 +1,1 @@
+Start : EXPRESS_STATIC="/Users/octo-ola/works/POC/beepboop/chaibia-bot/POC" bin/hubot
